@@ -1,0 +1,13 @@
+#Hubspot Coding challenge
+
+prerequisite
+java-1.8 or above
+maven 5.0.0 or above
+spring boot dependencies
+
+How to run :
+Download the project and import it into any IDE
+Build it using Maven to download the dependencies
+Just run the class(HubspotEventApplication) file by right click
+Call this endpoint:  http://localhost:8080/hubspot/event/post/invite/partners
+to send invite to partners
